@@ -5,7 +5,8 @@
 
 | Class name  | link        |
 | ----------- | ----------- |
-| lab-02b     | [lab-02b](https://github.com/AhmedAyoubOthman/Reading-notes/blob/main/README.md)       |
+| lab-02b     | [lab-02b](https://github.com/AhmedAyoubOthman/Reading-notes/blob/main/lab-02b.md)
+|
 |             |             |
 |             |             |
 |             |             |
