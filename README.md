@@ -1,19 +1,19 @@
 # Reading_nots
-# Growth Mindset
-## Worth Life
-**How you can benefit from a growth mindset**
+
+## My reading notes for 102 course:  
 
 
-The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
-![Growth Mindest](https://miro.medium.com/max/700/1*6tmkrsxMAYNQST-YjAAAlA.jpeg)
+| Class name  | link        |
+| ----------- | ----------- |
+| lab-02b     | [lab-02b](https://github.com/AhmedAyoubOthman/Reading-notes/blob/main/README.md)       |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
 
-**Perseverance, gumption traps, and maintaining a growth mindset:**
-- Challenges
-- Obstacles
-- Effort
-- Criticism
-- Success of others
 
-
-
-[learn more](https://www.mindsetworks.com/science/)
