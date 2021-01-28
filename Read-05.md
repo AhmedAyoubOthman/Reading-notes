@@ -44,12 +44,12 @@ Loops check a condition . If it returns true , a code block will run .
   
   ## FOR
    
-     If you need to run code a specific number of times , use a for loop . (it is the most common loop.) In a for loop , the condition is usually a counter which is used to tell how many times the loop should run .
+  If you need to run code a specific number of times , use a for loop . (it is the most common loop.) In a for loop , the condition is usually a counter which is used to tell how many times the loop should run .
    
 ## WHILE
     
-     If you do not know how many times the code should run you can uses the while loop . Here the condition can be something other than a counter , and the code will continue to loop for as long as the condition is true .
+ If you do not know how many times the code should run you can uses the while loop . Here the condition can be something other than a counter , and the code will continue to loop for as long as the condition is true .
     
  ## DO  WHILE
  
-     The do...while loop is a very  similar to the while loop, but has one key  differenc; it will always run the statements inside the curly braces at least one, even if the condition evaluatis to false.
+   The do...while loop is a very  similar to the while loop, but has one key  differenc; it will always run the statements inside the curly braces at least one, even if the condition evaluatis to false.
